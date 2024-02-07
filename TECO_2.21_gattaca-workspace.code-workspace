@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://ssh-remote+gattaca.jpl.nasa.gov/scratch_lg/cardamom/shuangma/TECO/TECO_2.21"
+		}
+	],
+	"remoteAuthority": "ssh-remote+gattaca.jpl.nasa.gov",
+	"settings": {
+		"r.sessionWatcher": true
+	}
+}
